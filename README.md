@@ -1,8 +1,8 @@
 ## Version 2 : added user profile section and enabled multiple faces detection.
-## Back-end code: https://github.com/takkuyu/magic-brain-api-version2
+### Back-end code: https://github.com/takkuyu/magic-brain-api-version2
 ## How to detect celebrities in your pictures:
 
-1: Get an image link (For example, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuemZcd4PBTw4S5AzPTMOrKGg76uWpBRV_ONdDF5OG0a4Oh6Rf&s)
+1: Get an image link (For example, https://i.pinimg.com/originals/d2/e1/f9/d2e1f9654acbf479065a82b8da7f38bf.jpg)
 
 2: Put the link on the form section.
 
