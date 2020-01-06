@@ -15,6 +15,7 @@
 You can change your name and add your age as well as favorite pet on your profile section which will be stored in a database so that the information of your profile remain the same unless you change them again.
 
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
