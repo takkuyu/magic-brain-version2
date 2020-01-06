@@ -6,9 +6,14 @@
 
 2: Put the link on the form section.
 
-3: Your picture appears on the right side and the face of a celebrity is detected.
+3: Your picture appears on the right side and the faces of celebrities are detected.
 
-4: The result section shows the name of the celebrity and probability score.
+4: The result section shows the names and probability score.
+
+### New feature: profile section
+
+You can change your name and add your age as well as favorite pet on your profile section which will be stored in a database so that the information of your profile remain the same unless you change them again.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
