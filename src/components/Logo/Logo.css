@@ -1,0 +1,43 @@
+.Tilt{
+    background: linear-gradient(89deg, rgb(53, 233, 37) 0%, #04c8de 100%);
+}
+
+
+.logo-container h1{
+    font-size:9vw;
+    margin:0;
+    text-align:center;
+    color:#fff;
+    line-height:150px;
+    padding-right:150px;
+}
+
+.logo-container span{
+    color:#04c8de;
+}
+
+
+/* for Large deveices */
+@media screen and (min-width: 992px){
+
+    .Tilt{
+        float:left;
+    }
+    
+  }
+
+/*for Small and Medium devices*/
+@media screen and (max-width: 991.98px){
+
+    .logo-container h1{
+        font-size:15vw;
+        padding-right:0;
+    }
+
+    .Tilt{
+        clear:left;
+        margin: 0 auto;
+    }
+    
+  }
+

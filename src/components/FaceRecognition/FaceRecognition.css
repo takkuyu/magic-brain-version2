@@ -1,0 +1,27 @@
+  .picture-container{
+    height:500px;
+    background:rgba(197, 194, 194, 0.3);
+    box-shadow: 0 0 10px 1px white;
+
+  }
+
+.picture-container img{
+  height:100%;
+  width:100%;
+  border-radius: .5rem;
+  color:#fff;
+  font-size: 1.5rem;
+}
+
+img::after {
+  content:"Your picture appears here";
+}
+
+.bounding-box {
+    position: absolute;
+    box-shadow: 0 0 0 3px rgb(53, 233, 37) inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+  }
