@@ -1,3 +1,15 @@
+## Version 2 : added user profile section and enabled multiple faces detection.
+
+## How to detect celebrities in your pictures:
+
+1: Get an image link (For example, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuemZcd4PBTw4S5AzPTMOrKGg76uWpBRV_ONdDF5OG0a4Oh6Rf&s)
+
+2: Put the link on the form section.
+
+3: Your picture appears on the right side and the face of a celebrity is detected.
+
+4: The result section shows the name of the celebrity and probability score.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
