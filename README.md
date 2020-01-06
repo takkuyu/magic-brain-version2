@@ -10,7 +10,7 @@
 
 4: The result section shows the names and probability score.
 
-### New feature: profile section
+## New feature: profile section
 
 You can change your name and add your age as well as favorite pet on your profile section which will be stored in a database so that the information of your profile remain the same unless you change them again.
 
